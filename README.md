@@ -1,6 +1,6 @@
 # reservas_hotel
 
-Esse projeto buscou analisar uma fonte de dados fictícea de um empreendimento hoteleiro.
+Esse projeto buscou analisar uma fonte de dados fictícia de um empreendimento hoteleiro.
 
 Após download do arquivo, foi feito o upload no colaboratory para que o projeto tivesse início.
 
